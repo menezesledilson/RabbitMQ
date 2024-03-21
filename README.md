@@ -1,2 +1,2 @@
 # RabbitMQ
-RabbitMQ na Prática
+RabbitMQ na Prática básico
